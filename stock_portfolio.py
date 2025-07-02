@@ -13,7 +13,7 @@ def get_user_input():
     stock_data = {}
     print("Enter your stocks (type 'done' to finish):")
     while True:
-        stock = input("Stock symbol (e.g., AAPL): ").upper()
+        stock = input("Stock symbol: ").upper()
         if stock == 'DONE':
             break
         if stock not in stock_prices:
