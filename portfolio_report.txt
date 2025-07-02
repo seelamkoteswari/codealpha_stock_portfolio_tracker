@@ -1,7 +1,1 @@
-Stock Portfolio Report
-----------------------
-AMZN: 20 shares × $125 = $2500
-TSLA: 15 shares × $250 = $3750
-GOOGL: 30 shares × $135 = $4050
 
-Total Investment: $10300
